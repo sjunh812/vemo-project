@@ -5,7 +5,8 @@
 - UI/UX 기획 및 구현
 - 자판기 프로토콜 일부 구현
 - 서버 연동
-- 유지보수 및 추가 개발  
+- 유지보수 및 추가 개발
+<br>   
 [🎮 Play 스토어](https://play.google.com/store/apps/details?id=kr.co.vemo.vemoplus)  
 <br>
 <br>
