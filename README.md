@@ -1,4 +1,5 @@
 # VEMO+ - 내 손안의 자판기 베모
+베모 자판기 연동 결제 시스템 안드로이드 앱 개발 및 유지보수 (2021.09.01~)
 ![ic_launcher](https://user-images.githubusercontent.com/79048895/168422263-31e0825f-e682-45c5-85d7-27d1ae8089b7.png)
 
 [🎮 Play 스토어](https://play.google.com/store/apps/details?id=kr.co.vemo.vemoplus)  
