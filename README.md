@@ -1,7 +1,7 @@
 # VEMO+ - 내 손안의 자판기 베모
 ![ic_launcher](https://user-images.githubusercontent.com/79048895/168422263-31e0825f-e682-45c5-85d7-27d1ae8089b7.png)
 
-[🎮 Play 스토어](https://play.google.com/store/apps/details?id=kr.co.vemo.vemoplus  
+[🎮 Play 스토어](https://play.google.com/store/apps/details?id=kr.co.vemo.vemoplus)  
 <br>
 <br>
 ## 📷 스크린샷
