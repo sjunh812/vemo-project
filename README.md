@@ -8,7 +8,7 @@
 - 유지보수 및 추가 개발(진행중)
   
 [🎮 Play 스토어](https://play.google.com/store/apps/details?id=kr.co.vemo.vemoplus)  
-[📺 시연 영상](<a href="https://drive.google.com/file/d/1XjCkBAMaLtu91LDbhJOuYLQ9qSSEL_40/view?usp=sharing/" target="_blank">)  
+[📺 시연 영상](https://drive.google.com/file/d/1XjCkBAMaLtu91LDbhJOuYLQ9qSSEL_40/view?usp=sharing)  
 <br>
 <br>
 ## 📷 스크린샷
