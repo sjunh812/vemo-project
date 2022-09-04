@@ -3,11 +3,13 @@
 (주)베모 자판기 연동 결제 시스템 안드로이드 앱 개발 및 유지보수 (2021.09.01~)  
 ### 담당 업무
 - UI/UX 기획 및 구현
-- 자판기 프로토콜 일부 구현
+- 자판기 BLE 프로토콜 구현
 - 서버 연동
 - 유지보수 및 추가 개발(진행중)
-  
+
+
 [🎮 Play 스토어](https://play.google.com/store/apps/details?id=kr.co.vemo.vemoplus)   
+
 [📺 시연 영상](https://drive.google.com/file/d/1XjCkBAMaLtu91LDbhJOuYLQ9qSSEL_40/view?usp=sharing)  
 <br>
 <br>
