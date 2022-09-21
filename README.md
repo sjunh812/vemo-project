@@ -1,13 +1,13 @@
 # 베모+ - 내 손안의 자판기 베모
 ![ic_launcher](https://user-images.githubusercontent.com/79048895/168422263-31e0825f-e682-45c5-85d7-27d1ae8089b7.png)  
-(주)베모 자판기 연동 결제 시스템 안드로이드 앱 개발 및 유지보수 (2021.09.01~)  
+**(주)베모** 자판기 결제 시스템 안드로이드 앱 개발 및 유지보수 (2021.09.01~)  
 <br>
-### 담당 업무
+## 🧑‍💻 담당 업무
 - UI/UX 기획 및 구현
 - 자판기 BLE 프로토콜 구현
-- 서버 연동
-- 유지보수 및 추가 개발(진행중)
-
+- 네트워킹
+- 유지보수 및 추가 개발
+<br>
 
 [🎮 Play 스토어](https://play.google.com/store/apps/details?id=kr.co.vemo.vemoplus)   
 
